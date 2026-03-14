@@ -8,7 +8,7 @@ Fetches the SPICE ticket and writes the .vv file
 Launches virt-viewer with the .vv file.
 
 
-Prereqs - Working Spice on client and server.
+Prereqs - Working Spice on client and server.  Make sure the VMs display does not timeout. (Usually Power settings)
 
 Edit the powershell file with your relevant config details and launch it.
 
